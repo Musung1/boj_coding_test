@@ -6,7 +6,13 @@
       <sourceFolder url="file://$MODULE_DIR$/boj_11003" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/boj_1874" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/boj_2018" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/boj_11286" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/boj_11399" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/boj_1377" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/boj_1427" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/boj_17298" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/boj_2164" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/boj_2750" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
