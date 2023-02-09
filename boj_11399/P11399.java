@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-//bubble sort
+//insertion sort
 public class P11399 {
 
     public static void main(String[] args) throws IOException {
