@@ -2,12 +2,7 @@ import java.io.*;
 import java.util.*;
 
 public class P1541{
-    //1. +A +B 그냥 더함
-    //2. +A (-B
-    //3. -(A) -B 그냥 더함
-    //4. -(A +B)
-    // 1. +면 넘어감 ,
-    //2. -면 괄호 , 다음 + 면 넘어감, - 만나면 괄호 닫기
+
     static int answer = 0;
 
     public static void main(String[] args) throws IOException {
@@ -20,7 +15,6 @@ public class P1541{
                 answer += temp;
             }else{
                 answer -= temp;
-
             }
         }
         System.out.println(answer);
