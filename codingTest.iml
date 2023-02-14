@@ -17,8 +17,13 @@
       <sourceFolder url="file://$MODULE_DIR$/boj_2023" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/boj_2164" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/boj_2750" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/boj_1167" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/boj_1260" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/boj_1920" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/boj_2178" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/boj_2343" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/boj_11047" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/boj_1300" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
